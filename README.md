@@ -64,5 +64,5 @@ Atualmente estou:
 ## ✨ Mensagem final    
 
 Se você chegou até aqui, obrigado de verdade 🙏  
-Fica o convite: explore, acompanhe e, se quiser, troque uma ideia comigo.  
+Fica o convite: explore, acompanhe e, se quiser, converse comigo.  
 Tenho certeza que **o melhor ainda está por vir** 🚀
