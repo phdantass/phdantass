@@ -40,7 +40,7 @@ Por isso, este espaço vai ter:
 - Pequenos projetos em HTML, CSS e JS  
 - Experimentos com Python e automação  
 
-![Exemplo de Projeto](./imagens/projeto-exemplo.png)  
+![Prineiro projeto em HTML, CSS e PHP](https://dantasapresent.liveblog365.com/?i=1)  
 *Um dos meus primeiros testes em HTML + CSS*  
 
 ---
