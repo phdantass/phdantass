@@ -31,7 +31,6 @@ Esses conhecimentos me deram uma visão ampla da área de TI, unindo **infraestr
 
 ![Snake animation](https://github.com/phdantass/phdantass/blob/output/github-contribution-grid-snake.svg)
 
-
 Acredito que aprender é também **mostrar e compartilhar**.  
 Por isso, este espaço vai ter:  
 
