@@ -54,7 +54,7 @@ Por isso, este espaço vai ter:
 *Um dos meus primeiros testes em HTML + CSS*  
 
 
-[![Site teste feedback](https://img.shields.io/badge/🌐_Visitar_Site-2563EB?style=for-the-badge)](https://phdantass.github.io/Projeto_banco_de_dados-SQLite/)
+(https://phdantass.github.io/Projeto_banco_de_dados-SQLite/)
 
 https://phdantass.github.io/Projeto_banco_de_dados-SQLite/
 
