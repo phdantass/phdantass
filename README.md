@@ -49,10 +49,16 @@ Por isso, este espaço vai ter:
 - Pequenos projetos em HTML, CSS e JS  
 - Experimentos com Python e automação  
 
-[![Visitar Site](https://img.shields.io/badge/🌐_Visitar_Site-2563EB?style=for-the-badge)](https://dantasapresent.liveblog365.com/?i=1)
+[![Site teste html, css e php](https://img.shields.io/badge/🌐_Visitar_Site-2563EB?style=for-the-badge)](https://dantasapresent.liveblog365.com/?i=1)
 
 *Um dos meus primeiros testes em HTML + CSS*  
 
+
+[![Site teste feedback](https://img.shields.io/badge/🌐_Visitar_Site-2563EB?style=for-the-badge)](https://phdantass.github.io/Projeto_banco_de_dados-SQLite/)
+
+https://phdantass.github.io/Projeto_banco_de_dados-SQLite/
+
+*criando um feedback basico*
 - 📊 Exercícios de banco de dados (em breve no GitHub)  
 
 ---
