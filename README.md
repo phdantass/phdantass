@@ -54,7 +54,6 @@ Por isso, este espaço vai ter:
 *Um dos meus primeiros testes em HTML + CSS*  
 
 
-(https://phdantass.github.io/Projeto_banco_de_dados-SQLite/)
 
 https://phdantass.github.io/Projeto_banco_de_dados-SQLite/
 
